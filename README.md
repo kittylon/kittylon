@@ -1,16 +1,28 @@
-## Hi there 👋
+# whoami
+🐍 Pythonista | ☁️ Cloud Enthusiast | 📊 Data Wizard
+🚀 Quick bits about me
 
-<!--
-**kittylon/kittylon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💼 Data/Analytics Engineer at WeTransfer
 
-Here are some ideas to get you started:
+🏙️ Amsterdam-based, world-curious
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 Computer Science Engineer with a dash of IT Infrastructure spice
+
+## 💖 What makes my heart beat faster
+
+🐘 Big Data? More like big fun!
+
+☁️ Head in the clouds (AWS & GCP, that is)
+
+🧙‍♀️ Turning data into insights like magic
+
+## 🛠️ My toolbox
+Python | SQL | Airflow | DBT | Databricks | Snowflake | Spark | Redshift | Terraform | Kubernetes
+
+## 🌈 When I'm not coding...
+
+🌟 Mentoring at She#, PyLadies, and Django Girls
+
+🌏 Getting to know new cultures
+
+🚲 Riding my bike
