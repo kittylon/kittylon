@@ -10,11 +10,9 @@
 
 ## 💖 What makes my heart beat faster
 
-🐘 Big Data? More like big fun!
+🐘 Big Data
 
-☁️ Head in the clouds (AWS & GCP, that is)
-
-🧙‍♀️ Turning data into insights like magic
+☁️ Head in the clouds (AWS & GCP)
 
 ## 🛠️ My toolbox
 Python | SQL | Airflow | DBT | Databricks | Snowflake | Spark | Redshift | Terraform | Kubernetes
